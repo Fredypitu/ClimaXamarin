@@ -1,0 +1,7 @@
+C:\Users\FREDY\source\repos\ClimaXamarin\ClimaXamarin\ClimaXamarin\bin\Debug\netstandard2.0\ClimaXamarin.deps.json
+C:\Users\FREDY\source\repos\ClimaXamarin\ClimaXamarin\ClimaXamarin\bin\Debug\netstandard2.0\ClimaXamarin.dll
+C:\Users\FREDY\source\repos\ClimaXamarin\ClimaXamarin\ClimaXamarin\obj\Debug\netstandard2.0\ClimaXamarin.csprojAssemblyReference.cache
+C:\Users\FREDY\source\repos\ClimaXamarin\ClimaXamarin\ClimaXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\FREDY\source\repos\ClimaXamarin\ClimaXamarin\ClimaXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\FREDY\source\repos\ClimaXamarin\ClimaXamarin\ClimaXamarin\obj\Debug\netstandard2.0\ClimaXamarin.AssemblyInfoInputs.cache
+C:\Users\FREDY\source\repos\ClimaXamarin\ClimaXamarin\ClimaXamarin\obj\Debug\netstandard2.0\ClimaXamarin.AssemblyInfo.cs

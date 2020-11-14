@@ -1,0 +1,8 @@
+push 		      
+	---> git push origin master
+------------------------------------------------------------------------
+Ver url donde se está haciendo push 
+	---> git remote -v
+------------------------------------------------------------------------
+Cambiar url de remote 
+	---> git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
